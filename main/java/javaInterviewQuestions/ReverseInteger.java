@@ -12,6 +12,10 @@ public class ReverseInteger {
         }
         System.out.println();
 
+
+
+
+
         //2nd method
         int num1 = 12345;
         System.out.println(new StringBuffer(String.valueOf(num1)).reverse());

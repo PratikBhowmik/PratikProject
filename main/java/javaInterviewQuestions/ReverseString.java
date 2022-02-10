@@ -10,6 +10,9 @@ public class ReverseString {
         }
         System.out.println(rev);
 
+
+
+
         //2nd method
         StringBuffer sb = new StringBuffer(s);
         System.out.println(sb.reverse());
