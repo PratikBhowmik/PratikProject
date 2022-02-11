@@ -13,5 +13,7 @@ public class Frames {
         driver.get("http://www.leafground.com/");
         Thread.sleep(5000);
         driver.manage().window().maximize();
+        driver.quit();
+        driver.close();
     }
 }
