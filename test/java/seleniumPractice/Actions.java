@@ -1,6 +1,7 @@
-package seleniumConcepts;
+package seleniumPractice;
 
-public class Locators {
+public class Actions {
+
     public static void main(String[] args) {
 
     }
