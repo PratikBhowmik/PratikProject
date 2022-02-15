@@ -22,8 +22,11 @@ public class Frames {
         js.executeScript("arguments[0].scrollIntoView();", element);
 
         element.click();
-        driver.switchTo().frame("//iframe[@src = 'default.html']");
-        driver.findElement(By.id("//button[@id = 'Click'] "));
+
+        driver.switchTo().frame("mainpanel");
+        Thread.sleep(2000);
+
+        driver.findElement(By.xpath("//a[contains(text(),'Contacts')]")).click();
     }
     public static void main(String[] args) throws InterruptedException {
 
