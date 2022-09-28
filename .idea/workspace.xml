@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/LogicCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/LogicCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/StandardCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/StandardCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/MyLocalDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/MyLocalDirectory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
