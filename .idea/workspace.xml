@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90a21c07-f61b-4dd1-9f82-3ff09f817606" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/practice/MyLocalDirectory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/practice/MyLocalDirectory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/LogicCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/LogicCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/StandardCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/me_qcalc_v2_module_debugging_stub/src/test/java/com/crio/qcalc/StandardCalculatorTest.java" afterDir="false" />
@@ -70,5 +72,16 @@
       <updated>1664328877652</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
